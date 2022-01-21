@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aniketdhage.github.io/csb-pgodf/static/css/main.caefb692.chunk.css",
+    "main.js": "https://aniketdhage.github.io/csb-pgodf/static/js/main.f56b2a19.chunk.js",
+    "main.js.map": "https://aniketdhage.github.io/csb-pgodf/static/js/main.f56b2a19.chunk.js.map",
+    "runtime-main.js": "https://aniketdhage.github.io/csb-pgodf/static/js/runtime-main.72cbc081.js",
+    "runtime-main.js.map": "https://aniketdhage.github.io/csb-pgodf/static/js/runtime-main.72cbc081.js.map",
+    "static/js/2.84e88d02.chunk.js": "https://aniketdhage.github.io/csb-pgodf/static/js/2.84e88d02.chunk.js",
+    "static/js/2.84e88d02.chunk.js.map": "https://aniketdhage.github.io/csb-pgodf/static/js/2.84e88d02.chunk.js.map",
+    "index.html": "https://aniketdhage.github.io/csb-pgodf/index.html",
+    "static/css/main.caefb692.chunk.css.map": "https://aniketdhage.github.io/csb-pgodf/static/css/main.caefb692.chunk.css.map",
+    "static/js/2.84e88d02.chunk.js.LICENSE.txt": "https://aniketdhage.github.io/csb-pgodf/static/js/2.84e88d02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72cbc081.js",
+    "static/js/2.84e88d02.chunk.js",
+    "static/css/main.caefb692.chunk.css",
+    "static/js/main.f56b2a19.chunk.js"
+  ]
+}
